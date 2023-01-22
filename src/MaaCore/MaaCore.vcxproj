@@ -38,7 +38,7 @@
     <ClInclude Include="Common\AsstVersion.h" />
     <ClInclude Include="Config\Miscellaneous\AvatarCacheManager.h" />
     <ClInclude Include="Config\Miscellaneous\SSSCopilotConfig.h" />
-    <ClInclude Include="Controller.h" />
+    <ClInclude Include="Controller\Controller.h" />
     <ClInclude Include="InstHelper.h" />
     <ClInclude Include="Task\BattleHelper.h" />
     <ClInclude Include="Task\Interface\SingleStepTask.h" />
@@ -165,7 +165,7 @@
     <ClCompile Include="AsstCaller.cpp" />
     <ClCompile Include="Config\Miscellaneous\AvatarCacheManager.cpp" />
     <ClCompile Include="Config\Miscellaneous\SSSCopilotConfig.cpp" />
-    <ClCompile Include="Controller.cpp" />
+    <ClCompile Include="Controller\Controller.cpp" />
     <ClCompile Include="InstHelper.cpp" />
     <ClCompile Include="Task\BattleHelper.cpp" />
     <ClCompile Include="Task\Interface\SingleStepTask.cpp" />

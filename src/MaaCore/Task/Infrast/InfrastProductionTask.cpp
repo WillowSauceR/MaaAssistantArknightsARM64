@@ -5,7 +5,7 @@
 
 #include <calculator/calculator.hpp>
 
-#include "Controller.h"
+#include "Controller/Controller.h"
 #include "Vision/HashImageAnalyzer.h"
 #include "Vision/Infrast/InfrastOperImageAnalyzer.h"
 #include "Vision/MatchImageAnalyzer.h"
